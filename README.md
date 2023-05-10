@@ -5,7 +5,7 @@ A 4-Channel mains sensor using an ESP32 two board versions one using a Wemos ESP
 
 Using the ESP32's own A/D (12-bit) to measure the output of the current transformer, this output voltage is measured across a burned resistor. This resistor is either on the PCB (22R) for the current type CT's or fitted inside the CT's casing for the voltage type. This version has some digital filtering which improves resolution at lower power levels.
 
-### PCB Layout - MLP201185 (Wemos Version)
+### PCB Layout - MLP201185 (Wemos ESP32 Version)
 
 ![](https://github.com/Mottramlabs/ESP32-4-Channel-Mains-Current-Sensor/blob/main/Pictures/PIX201185.jpg)
 
@@ -13,6 +13,6 @@ Using the ESP32's own A/D (12-bit) to measure the output of the current transfor
 
 ![](https://github.com/Mottramlabs/ESP32-4-Channel-Mains-Current-Sensor/blob/main/Pictures/PIX201188.jpg)
 
-### PCB Layout - MLP201191 (ESP32 S2 Version)
+### PCB Layout - MLP201191 (Wemos ESP32 S2 Version)
 
 ![](https://github.com/Mottramlabs/ESP32-4-Channel-Mains-Current-Sensor/blob/main/Pictures/PIX201191.jpg)
