@@ -1,5 +1,5 @@
 # ESP32-4-Channel-Mains-Current-Sensor
-A 4-Channel mains sensor using an ESP32 two board versions one using a Wemos ESP32 the other uses a Node-MCU board. Both boards can work with either current or voltage out CT's (current transformers).
+A 4-Channel mains sensor using an ESP32 two board versions one using a Wemos ESP32 the other uses a Node-MCU board. Both boards can work with either a current or voltage type of CT's (current transformers).
 
 ###### Firmware Version 1
 
