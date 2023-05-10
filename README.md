@@ -13,6 +13,6 @@ Using the ESP32's own A/D (12-bit) to measure the output of the current transfor
 
 ![](https://github.com/Mottramlabs/ESP32-4-Channel-Mains-Current-Sensor/blob/main/Pictures/PIX201188.jpg)
 
-### PCB Layout - MLP201191 (ESP£" S2 Version)
+### PCB Layout - MLP201191 (ESP32 S2 Version)
 
 ![](https://github.com/Mottramlabs/ESP32-4-Channel-Mains-Current-Sensor/blob/main/Pictures/PIX201191.jpg)
